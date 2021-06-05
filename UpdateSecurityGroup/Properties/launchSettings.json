@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UpdateSecurityGroup": {
+      "commandName": "Project",
+      "commandLineArgs": "3389"
+    }
+  }
+}
